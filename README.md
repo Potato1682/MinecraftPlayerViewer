@@ -1,2 +1,2 @@
 # MinecraftPlayerViewer
-a minecraft player viewer
+Search player old name from Hypixel API and Minecraft API.
